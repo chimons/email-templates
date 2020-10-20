@@ -1,2 +1,2 @@
-Hello {name}, 
-This is email value : {var1} !
+Hello {firstname}, 
+This is your last name : {lastname} !
